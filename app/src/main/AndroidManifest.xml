@@ -19,7 +19,8 @@
         <activity android:name=".BattleshipActivity" />
         <activity android:name=".DoodlePad" />
         <activity android:name=".SpotTheCarActivity" />
-        <activity android:name=".iSpyActivity"></activity>
+        <activity android:name=".ScavengerHuntActivity" />
+        <activity android:name=".LicensePlateActivity"></activity>
     </application>
 
 </manifest>

@@ -39,11 +39,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(licensePlate);
     }
 
-    public void playiSpy(View view)
+    public void playScavengerHunt(View view)
     {
-        Intent iSpy = new Intent(getApplicationContext(), iSpyActivity.class);
+        Intent scavengerHunt = new Intent(getApplicationContext(), ScavengerHuntActivity.class);
 
-        startActivity(iSpy);
+        startActivity(scavengerHunt);
     }
 
     @Override
