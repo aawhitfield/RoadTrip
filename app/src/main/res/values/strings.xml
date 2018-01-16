@@ -7,4 +7,5 @@
     <string name="ispy">iSpy</string>
     <string name="outside_of_app">Outside of App</string>
     <string name="credits">Credits</string>
+    <string name="backArrow"><![CDATA[<-]]></string>
 </resources>

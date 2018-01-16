@@ -16,7 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BattleshipActivity"></activity>
+        <activity android:name=".BattleshipActivity" />
+        <activity android:name=".DoodlePad" />
+        <activity android:name=".SpotTheCarActivity" />
+        <activity android:name=".iSpyActivity"></activity>
     </application>
 
 </manifest>
