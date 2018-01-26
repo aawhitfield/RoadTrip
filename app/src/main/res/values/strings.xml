@@ -101,4 +101,7 @@
     <string name="action_settings">Settings</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="itemRedCar">Red Car</string>
+    <string name="itemBlueCar">Blue Car</string>
+    <string name="itemBlackCar">Black Car</string>
 </resources>
