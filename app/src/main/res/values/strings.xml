@@ -104,4 +104,10 @@
     <string name="itemRedCar">Red Car</string>
     <string name="itemBlueCar">Blue Car</string>
     <string name="itemBlackCar">Black Car</string>
+    <string name="button_a1">A1</string>
+    <string name="button_a2">A2</string>
+    <string name="button_a3">A3</string>
+    <string name="button_a4">A4</string>
+    <string name="snackbar_hit">Hit</string>
+    <string name="snackbar_miss">Miss</string>
 </resources>
